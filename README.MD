@@ -1,0 +1,1 @@
+# Plural course 'reactive programming with rxjs' by Scott Allen
