@@ -1,0 +1,29 @@
+{
+  "name": "plural-reactive-programming-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "webpack-dev-server --watch --inline",
+    "postinstall": "typings install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerbenRampaart/plural-reactive-programming-rxjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GerbenRampaart/plural-reactive-programming-rxjs/issues"
+  },
+  "homepage": "https://github.com/GerbenRampaart/plural-reactive-programming-rxjs#readme",
+  "dependencies": {
+    "rxjs": "^5.4.3"
+  },
+  "devDependencies": {
+    "ts-loader": "^2.3.2",
+    "typescript": "^2.4.2",
+    "typings": "^2.1.1",
+    "webpack": "^3.5.3",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
