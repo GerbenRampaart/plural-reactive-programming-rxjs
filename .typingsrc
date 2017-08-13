@@ -1,7 +1,7 @@
 {
         "rejectUnauthoriozed":false,
-        "httpProxy": "http://websurfing1-tin1.esi.adp.com:8080",
-        "httpsProxy": "http://websurfing1-tin1.esi.adp.com:8080",
+        //"httpProxy": "http://websurfing1-tin1.esi.adp.com:8080",
+        //"httpsProxy": "http://websurfing1-tin1.esi.adp.com:8080",
         "insecure":true,
         "strict-ssl":false
 }
